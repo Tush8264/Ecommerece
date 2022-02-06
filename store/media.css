@@ -1,0 +1,776 @@
+@media only screen and (max-device-width:425px) {
+   body{
+       font-size: 5px;
+   }
+    #a
+    {
+        height: 400px;
+        background-image: url('425/logoi.jpeg');
+    }
+    .navbar .logo img{
+        width:50px;
+    }
+    .navbar
+    {
+
+        padding: 5px;
+
+    }
+
+    nav ul li{
+
+        margin: 5px;
+    }
+    nav ul li::after
+    {
+        height:1px;
+
+    }
+
+#srl{
+    font-size: 7px;
+}
+
+    container
+    {
+        max-width: 500px;
+        padding-left: 7px;
+        padding-right: 7px;
+    }
+
+
+    .col-2 h1
+    {
+        font-size: 15px;
+        line-height: 30px;
+        margin: 7px 0;
+    }
+
+    .btn,.pond
+    {
+        width: 70px;
+        height: 20px;
+        font-size: 7px;
+        padding:2px 10px;
+        margin: 10px 0;
+        border-radius: 10px;
+
+    }
+
+    .header .row{
+        margin: 70px;
+    }
+    .categories
+    {
+        margin: 8px 0;
+    }
+    .col-3
+    {
+
+        min-width: 80px;
+        margin-bottom: 10px;
+
+    }
+
+    .c
+    {
+        background: radial-gradient(#fff,#ffd6d6);
+        padding: 12px 12px 12px 12px;
+    }
+    .small-container
+    {
+
+        margin-left: 8px;
+
+        padding-left: 10px;
+        margin-right: 8px;
+    }
+    .col-4
+    {
+
+        min-width: 80px;
+        margin-bottom: 12px;
+
+    }
+    .title
+    {
+        margin: 0 auto 20px;
+
+        line-height: 20px;
+        font-size: 12px;
+
+    }
+    .title::after
+    {
+
+        width: 80px;
+        height: 2px;
+        border-radius: 5px;
+
+
+    }
+    h4{
+      font-size: 12px;
+
+    }
+    .col-4 p
+    {
+        font-size: 7px;
+    }
+    .offer
+    {
+        background: radial-gradient(rgb(75, 74, 74),#424040);
+
+        padding: 10px 0;
+    }
+
+    .pro{
+        width:200px;
+        margin-right: 3%;
+        padding-left: 5%;
+    }
+
+
+    #srl {
+
+        height: 20px;
+
+
+    }
+
+
+    .row-2
+    {
+
+        margin: 20px 0 10px;
+    }
+    select{
+
+        padding: 2px;
+    }
+
+    .sld{
+        padding: 10px 10px 10px 10px;
+        display: block;
+        justify-content: center;
+        height: 400px;
+
+    }
+    .sld .ctr{
+
+        width: 800px;
+
+
+    }
+
+
+
+    .sld .ctr .bx .cnb{
+
+        top:12px;
+        bottom: 12px;
+        right: 12px;
+        }
+
+    .sld .ctr .bx .cnb .cnt{
+
+
+        padding: 5px 20px;
+    }
+    .im img{
+        width: 120px;
+        height: 200px;
+    }
+
+    .card{
+        width: 100px;
+        height: 150px;
+
+
+    }
+
+
+    .card .myimgo{
+        width: 100%;
+        height: 50px;
+
+    }
+    .card .myimgo img{
+        position: absolute;
+        top: 0%;
+        width:100px;
+        height:80px ;
+
+    }
+    .card .autbx{
+
+        height: 15px;
+
+    }
+    .card:hover .autbx{
+        height: 40px;
+    }
+    .upt marquee{
+
+        width: 80px;
+        text-shadow: 0px 0px 10px #00a1ab,0px 0px 20px #00a1ab,0px 0px 40px #00a1ab;
+    }
+
+    .sidenav {
+
+        padding-top: 20px;
+
+    }
+
+    .sidenav a {
+        padding: 2px 2px 2px 11px;
+
+        font-size: 7px;
+
+    }
+
+
+    .sidenav .closebtn {
+        position: absolute;
+        top: 0;
+        right: 10px;
+        font-size: 11px;
+        margin-left: 12px;
+    }
+    #main {
+
+        margin-top: 20px;
+    }
+    .card button{
+
+        font-size: 5px;
+        border-radius:30px ;
+        padding:1.5px 7px;
+        height: 10px;
+width: 30px;
+    }
+
+    .upper{
+       padding-top: 3px;
+        height: 20px;
+
+font-size: 7px;
+    }
+.upper img{
+    width: 8px;
+    height: 9px;
+}
+
+
+
+    .close {
+        font-size: 8px;
+
+    }
+
+    .modal .inmodel .modalcont{
+        padding: 10px;
+        background: black;
+    }
+    .modal .inmodel .modalcont h1{
+        font-size: 8px;
+        border-bottom:3px solid darkviolet ;
+        margin-bottom: 12px;
+        padding: 8px;
+    }
+    .modal .inmodel .modalcont .tbx{
+
+        font-size: 8px;
+        padding: 2px 0;
+        margin: 2px 0;
+        border-bottom: 2px solid darkviolet ;
+    }
+
+    .modal .inmodel .modalcont .tbx input{
+
+        font-size: 7px;
+        width: 80px;
+
+        margin: 5px;
+
+
+    }
+
+    .lighitdrk[type="checkbox"]
+    {
+
+        top:2px;
+        left: 12px;
+
+    }
+
+    .lighitdrk[type="checkbox"]:before{
+
+        padding: 3px;
+    }
+
+    .cntact h1{
+
+        font-size:15px ;
+    }
+    .srec .cntact table .numo,.numo1,.numo2{
+        margin-top:5%;
+        font-size: 7px;
+        height: 12px;
+    }
+
+    .srec .cntact table .numo{
+        width: 100%;
+
+        padding: 5px 8px;
+
+
+        border: 1px solid #1b1919;
+
+        border-radius: 4px;
+
+    }
+    .srec .cntact table .numo1{
+
+        padding: 5px 8px;
+
+    }
+    .srec .cntact table .numo2{
+
+        height: 50px;
+        padding: 5px 8px;
+
+
+        border-radius: 4px;
+
+
+        font-size: 7px;
+
+    }
+    .srec .cntact table .numo:focus,.srec .cntact table .numo1:focus{
+        border-bottom: 2px solid #595238;
+        background: darksalmon;
+        border-top: none;
+        border-left: none;
+        border-right: none;
+    }
+    .srec .cntact table .numo2:focus{
+        background: darksalmon;
+    }
+    @-webkit-keyframes animatezoom {
+        from {-webkit-transform: scale(0)}
+        to {-webkit-transform: scale(1)}
+    }
+
+    @keyframes animatezoom {
+        from {transform: scale(0)}
+        to {transform: scale(1)}
+    }
+
+    #show{
+        padding: 5%;
+        background-color: #050505;
+        animation-name: example;
+        animation-duration: 7s;
+        animation-iteration-count: infinite;
+        animation-direction: alternate;
+
+    }
+
+    @keyframes example {
+        from {background-color: #050505;}
+        to {background-color: #6a097d;}
+    }
+
+
+
+}
+/*tablet*/
+@media only screen and (max-device-width:770px) and (min-device-width:426px)  {
+    body{
+        font-size: 12px;
+    }
+    #a
+    {
+        height: 600px;
+        background-image: url('425/logoi.jpeg');
+    }
+    .navbar .logo img{
+        width:100px;
+    }
+    .navbar
+    {
+
+        padding: 8px;
+
+    }
+
+    nav ul li{
+
+        margin: 8px;
+    }
+    nav ul li::after
+    {
+        height:3px;
+
+    }
+
+    #srl{
+        font-size: 12px;
+    }
+
+    container
+    {
+        max-width: 800px;
+        padding-left: 12px;
+        padding-right: 12px;
+    }
+
+
+    .col-2 h1
+    {
+        font-size: 28px;
+        line-height: 60px;
+        margin: 12px 0;
+    }
+
+    .btn,.pond
+    {
+        width: 100px;
+        height: 40px;
+        font-size: 12px;
+        padding:4px 20px;
+        margin: 20px 0;
+        border-radius: 30px;
+
+    }
+
+    .header .row
+    {
+        margin: 120px;
+    }
+    .categories
+    {
+        margin: 12px 0;
+    }
+    .col-3
+    {
+
+        min-width: 120px;
+        margin-bottom: 20px;
+
+    }
+
+    .c
+    {
+        background: radial-gradient(#fff,#ffd6d6);
+        padding: 25px 25px 25px 25px;
+    }
+    .small-container
+    {
+
+        margin-left: 12px;
+
+        padding-left: 20px;
+        margin-right: 12px;
+    }
+    .col-4
+    {
+
+        min-width: 120px;
+        margin-bottom: 25px;
+
+    }
+    .title
+    {
+        margin: 0 auto 40px;
+
+        line-height: 40px;
+        font-size: 25px;
+
+    }
+    .title::after
+    {
+
+        width: 120px;
+        height: 4px;
+        border-radius: 10px;
+
+
+    }
+    h4{
+        font-size: 20px;
+
+    }
+    .col-4 p
+    {
+        font-size: 15px;
+    }
+    .offer
+    {
+        background: radial-gradient(rgb(75, 74, 74),#424040);
+
+        padding: 20px 0;
+    }
+
+    .pro{
+        width:400px;
+        margin-right: 3%;
+        padding-left: 5%;
+    }
+
+
+    #srl {
+
+        height: 40px;
+
+
+    }
+
+
+    .row-2
+    {
+
+        margin: 40px 0 20px;
+    }
+    select{
+
+        padding: 4px;
+    }
+
+    .sld{
+        padding: 10px 10px 10px 10px;
+        display: block;
+        justify-content: center;
+        height: 400px;
+
+    }
+    .sld .ctr{
+
+        width: 800px;
+
+
+    }
+
+
+
+    .sld .ctr .bx .cnb{
+
+        top:12px;
+        bottom: 12px;
+        right: 12px;
+    }
+
+    .sld .ctr .bx .cnb .cnt{
+
+
+        padding: 5px 20px;
+    }
+    .im img{
+        width: 120px;
+        height: 200px;
+    }
+
+    .card{
+        width: 100px;
+        height: 150px;
+
+
+    }
+
+
+    .card .myimgo{
+        width: 100%;
+        height: 50px;
+
+    }
+    .card .myimgo img{
+        position: absolute;
+        top: 0%;
+        width:100px;
+        height:80px ;
+
+    }
+    .card .autbx{
+
+        height: 15px;
+
+    }
+    .card:hover .autbx{
+        height: 40px;
+    }
+    .upt marquee{
+
+        width: 80px;
+        text-shadow: 0px 0px 10px #00a1ab,0px 0px 20px #00a1ab,0px 0px 40px #00a1ab;
+    }
+
+    .sidenav {
+
+        padding-top: 20px;
+
+    }
+
+    .sidenav a {
+        padding: 2px 2px 2px 11px;
+
+        font-size: 7px;
+
+    }
+
+
+    .sidenav .closebtn {
+        position: absolute;
+        top: 0;
+        right: 10px;
+        font-size: 11px;
+        margin-left: 12px;
+    }
+    #main {
+
+        margin-top: 20px;
+    }
+    .card button{
+
+        font-size: 5px;
+        border-radius:30px ;
+        padding:1.5px 7px;
+        height: 10px;
+        width: 30px;
+    }
+
+    .upper{
+        padding-top: 3px;
+        height: 20px;
+
+        font-size: 7px;
+    }
+    .upper img{
+        width: 8px;
+        height: 9px;
+    }
+
+
+
+    .close {
+        font-size: 8px;
+
+    }
+
+    .modal .inmodel .modalcont{
+        padding: 10px;
+        background: black;
+    }
+    .modal .inmodel .modalcont h1{
+        font-size: 8px;
+        border-bottom:3px solid darkviolet ;
+        margin-bottom: 12px;
+        padding: 8px;
+    }
+    .modal .inmodel .modalcont .tbx{
+
+        font-size: 8px;
+        padding: 2px 0;
+        margin: 2px 0;
+        border-bottom: 2px solid darkviolet ;
+    }
+
+    .modal .inmodel .modalcont .tbx input{
+
+        font-size: 7px;
+        width: 80px;
+
+        margin: 5px;
+
+
+    }
+
+    .lighitdrk[type="checkbox"]
+    {
+
+        top:2px;
+        left: 12px;
+
+    }
+
+    .lighitdrk[type="checkbox"]:before{
+
+        padding: 3px;
+    }
+
+    .cntact h1{
+
+        font-size:15px ;
+    }
+    .srec .cntact table .numo,.numo1,.numo2{
+        margin-top:5%;
+        font-size: 7px;
+        height: 12px;
+    }
+
+    .srec .cntact table .numo{
+        width: 100%;
+
+        padding: 5px 8px;
+
+
+        border: 1px solid #1b1919;
+
+        border-radius: 4px;
+
+    }
+    .srec .cntact table .numo1{
+
+        padding: 5px 8px;
+
+    }
+    .srec .cntact table .numo2{
+
+        height: 50px;
+        padding: 5px 8px;
+
+
+        border-radius: 4px;
+
+
+        font-size: 7px;
+
+    }
+    .srec .cntact table .numo:focus,.srec .cntact table .numo1:focus{
+        border-bottom: 2px solid #595238;
+        background: darksalmon;
+        border-top: none;
+        border-left: none;
+        border-right: none;
+    }
+    .srec .cntact table .numo2:focus{
+        background: darksalmon;
+    }
+    @-webkit-keyframes animatezoom {
+        from {-webkit-transform: scale(0)}
+        to {-webkit-transform: scale(1)}
+    }
+
+    @keyframes animatezoom {
+        from {transform: scale(0)}
+        to {transform: scale(1)}
+    }
+
+    #show{
+        padding: 5%;
+        background-color: #050505;
+        animation-name: example;
+        animation-duration: 7s;
+        animation-iteration-count: infinite;
+        animation-direction: alternate;
+
+    }
+
+    @keyframes example {
+        from {background-color: #050505;}
+        to {background-color: #6a097d;}
+    }
+
+
+
+}
